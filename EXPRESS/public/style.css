@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  justify-content: center;
+}
+
+.nav-bar {
+  display: flex;
+}
+
+.nav-bar ul {
+  display: flex;
+}
+.nav-bar li {
+  list-style: none;
+  margin-left: 20px;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+}
