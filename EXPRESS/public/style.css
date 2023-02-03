@@ -9,6 +9,7 @@
 
 .nav-bar ul {
   display: flex;
+ 
 }
 .nav-bar li {
   list-style: none;
